@@ -12,13 +12,13 @@ yarn
 
 #### 2. Add dotenv file
 
-```json
-// .env
+```dotenv
+<!-- .env -->
 HARDHAT_NETWORK='baobab'
 CYPRESS_URL='https://public-node-api.klaytnapi.com/v1/cypress'
 BAOBAB_URL= 'https://api.baobab.klaytn.net:8651'
 
-PRIVATE_KEY= <TYPE YOUR PRIVATE KEY>
+PRIVATE_KEY= <TYPE_YOUR_PRIVATE_KEY>
 ```
 
 - **HARDHAT_NETWORK :** The network name you created in the hardhat config file. Used to interact with the network through hre.
@@ -31,7 +31,9 @@ PRIVATE_KEY= <TYPE YOUR PRIVATE KEY>
 yarn compile
 ```
 
-The folder hierarchy is as follows
+If the compile is successful, it is installed correctly.
+
+#### The folder hierarchy is as follows
 
 ```bash
 ├── contracts
