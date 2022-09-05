@@ -63,7 +63,7 @@ yarn compile
 
 Running this code will create folders `artifacts`, `cache`, and `typechain-types`.
 
-#### 2 Test
+#### 2. Test
 
 ```bash
 yarn test test/Token.ts
