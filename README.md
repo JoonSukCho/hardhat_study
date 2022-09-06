@@ -2,7 +2,7 @@
 
 ## Installation
 
-Try install libraries the following tasks:
+> Try install libraries the following tasks:
 
 #### 1. Install library
 
@@ -74,3 +74,6 @@ yarn test test/Token.ts
 ```bash
 yarn script scripts/deploy.ts
 ```
+
+## How to use
+> If you want to try a simple tutorial, click on [the link](https://dean-dev.notion.site/ec14cb0959774c489f66e9aa9c66c264?v=eb01a7a8ac3b463c961f674dd0a97929).
